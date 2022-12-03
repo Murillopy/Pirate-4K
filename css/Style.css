@@ -1,0 +1,22 @@
+/*RESET*/
+*{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    text-align:none;
+}
+/*RESET*/
+
+
+/*BODY CSS*/
+body{
+    background-color:white;
+}
+/*BODY CSS*/
+
+
+header{
+    color:white;
+    background-color:black;
+    padding:100px;
+}
